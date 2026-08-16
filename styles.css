@@ -173,13 +173,6 @@ h1 {
 
 .section-heading { align-self: start; position: sticky; top: 110px; }
 
-.section-number {
-  color: var(--blue);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  margin-bottom: 10px;
-}
-
 .section-heading h2 { font-size: 38px; letter-spacing: -0.04em; }
 
 .about-content, .research-content, .teaching-content { max-width: 860px; }
