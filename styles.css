@@ -250,18 +250,8 @@ h1 {
 .publication .venue { color: var(--ink); }
 
 .working-list article {
-  align-items: start;
   border-bottom: 1px solid var(--rule);
-  display: grid;
-  gap: 24px;
-  grid-template-columns: 30px 1fr;
   padding: 24px 0;
-}
-
-.working-list article > span {
-  color: var(--muted);
-  font-size: 10px;
-  padding-top: 7px;
 }
 
 .working-list h4 { font-size: 20px; margin-bottom: 5px; }
